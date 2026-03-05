@@ -195,7 +195,7 @@ export default function App() {
         <div className="navInner">
           <a className="brand" href="#top" data-magnetic="true" data-cursor="hover">
             <span className="brandDot" />
-            <span>Ray</span>
+            <span>Ray Awad</span>
           </a>
 
           <nav className="navLinks">
@@ -218,12 +218,18 @@ export default function App() {
             <div className="badge heroIn reveal">Customer Success Manager • BC, Canada</div>
 
             <h1 className="heroIn reveal">
-              Customer Success <span className="accent">done right</span>.
-            </h1>
+  Customer Success
+  <br />
+  <span className="accent">Built for Scale.</span>
+</h1>
 
-            <p className="heroIn reveal">
-              I help customers adopt, retain, and win through structured onboarding, success plans, and proactive churn prevention.
-            </p>
+<p className="heroIn reveal">
+  Customer Success professional focused on building scalable onboarding systems 
+  and optimizing product adoption across SMB portfolios. Skilled in leveraging 
+  CRM tools, account health metrics, and behavioral data to improve time-to-value 
+  and increase lifetime customer retention.
+</p>
+
 
             <div className="actions heroIn reveal">
               <a className="btn primary" href="#contact" data-magnetic="true" data-cursor="hover">
